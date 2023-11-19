@@ -1,0 +1,8 @@
+{
+  "type": "chest",
+  "pools": [
+    { "rolls": 1.0, "entries": [ { "type": "loot_table", "name": "fast_spawn:chipped_vault_rock" } ] },
+    { "rolls": 1.0, "entries": [ { "type": "loot_table", "name": "fast_spawn:vault_stone" } ] },
+    { "rolls": 1.0, "entries": [ { "type": "loot_table", "name": "fast_spawn:raw_chromatic_iron" } ] }
+  ]
+}
